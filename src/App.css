@@ -1,0 +1,79 @@
+ body{
+    background-color: antiquewhite; 
+
+}
+
+  .rating{ 
+    position: relative;
+    border-radius: 20px;
+    height: 20px;
+    width: 300px;
+    padding:10px;
+    margin-left: 25px;
+} 
+
+.rat{
+    margin-right: 230px;
+    font-size: x-large;
+    
+}
+
+#name,#comment{
+    margin-right: 190px;
+    font-size: x-large;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+#txt{
+    position: relative;
+    border-radius: 20px;
+    height: 10px;
+    width: 300px;
+    padding:10px;
+    margin-left: 20px;
+}
+
+.texx{
+    position: relative;
+    border-radius: 20px;
+    height: 10px;
+    width: 300px;
+    padding:10px;
+    margin-left: 20px;
+}
+
+#sub{
+    position: relative;
+    border-radius: 10px;
+    height: 20px;
+    width: 250px;
+    padding: 20px;
+    left: 60px;
+    color: aqua;
+    
+}
+
+#btnn{
+    
+    
+    
+    height: 30px;
+    width: 150px;
+    border-radius: 10px;   
+
+
+}
+
+ .containor{
+   background-color: cadetblue;
+   border-radius: 20px;
+    position: relative;
+    bottom: 400px;
+    
+} 
+.container{
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            
+}
